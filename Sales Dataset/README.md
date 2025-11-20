@@ -49,6 +49,10 @@ The two tables are linked by the **`Order ID`** column, allowing for comprehensi
 
 The dashboard features several key charts to analyze sales performance across different dimensions:
 
+## 📊 Power BI Dashboard
+
+👉 https://app.powerbi.com/viewr=eyJrIjoiOTE1ODUyNTItOWZjZi00NmQ4LTg2MWQtOWRkMWQ5YWViN2U0IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
+
 ### 1. Top Sales by Category and Segments (Bar Chart)
 
 * **Chart Type:** **Clustered/Stacked Bar Chart**
