@@ -41,11 +41,16 @@ The dataset provides granular detail on sales transactions. Below is a summary o
 
 The dashboard is structured into sheets, each featuring crucial visualizations for executive review:
 
+[![Power BI Dashboard](https://github.com/user-attachments/assets/8c416754-a671-4b44-9841-d6e81474eeb0)](https://app.powerbi.com/view?r=eyJrIjoiZTdhNWU2YmQtMjA3Mi00NWFhLWE1N2YtNDVjZTlkMTUzZmNhIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
 ### 1. Profit by Month and Year (Line Chart)
 
 * **Chart Type:** **Line Chart**
 * **Dimensions & Measures:** Tracks the **Total Profit** (measure) over a time hierarchy, typically displayed by **Month Name** on the X-axis, with separate lines or filtering for **Year**.
 * **Key Insight:** This trend analysis is essential for identifying seasonality, growth trends, and specific periods of high or low profitability over the years.
+
+<img width="804" height="449" alt="image" src="https://github.com/user-attachments/assets/c316f3f1-1848-4923-8a27-ea6916fa3f79" />
+
 
 ### 2. Total Profit by Country (Map Chart)
 
@@ -53,8 +58,14 @@ The dashboard is structured into sheets, each featuring crucial visualizations f
 * **Dimensions & Measures:** Displays **Total Profit** (measure) geographically, using **Country** (dimension) as the location field.
 * **Key Insight:** Provides a powerful visual overview of the top-performing and underperforming markets globally, allowing management to quickly allocate resources or investigate regional strategies.
 
+<img width="1526" height="711" alt="image" src="https://github.com/user-attachments/assets/2f8c1c2e-adda-452d-b28c-331ac9c2992b" />
+
+
 ### 3. Total Sales by Product and Segment (Bar Chart)
 
 * **Chart Type:** **Clustered or Stacked Bar Chart**
 * **Dimensions & Measures:** Visualizes **Total Sales** (measure) segmented by **Product** (primary dimension) and further broken down by **Segment** (secondary dimension).
 * **Key Insight:** This breakdown helps in understanding the revenue contribution of each product line and how well each product performs across different customer segments (e.g., Government vs. Midmarket), guiding product and sales focus.
+
+<img width="1496" height="468" alt="image" src="https://github.com/user-attachments/assets/4a5716d2-64cf-4708-98ab-f172584c8e72" />
+
