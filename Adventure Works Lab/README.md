@@ -1,7 +1,7 @@
 
-# Reseller Sales Analysis Dashboard (June 2020)
+# Reseller Sales Analysis Dashboard 
 
-This repository contains the source data and the Power BI solution for analyzing reseller sales performance for June 2020. The dashboard provides a detailed look at transactional data, costs, and sales revenue, designed to track key performance indicators (KPIs) in the reseller channel.
+This repository contains the source data and the Power BI solution for analyzing reseller sales performance. The dashboard provides a detailed look at transactional data, costs, and sales revenue, designed to track key performance indicators (KPIs) in the reseller channel.
 
 ---
 
@@ -65,4 +65,7 @@ The `12-Solution-Sales Analysis.pbix` file is structured to answer critical busi
   <img width="1223" height="529" alt="image" src="https://github.com/user-attachments/assets/7f297e99-f3a8-4a8f-bc63-5d32d0eed445" />
 
   <img width="1793" height="971" alt="image" src="https://github.com/user-attachments/assets/fd1921dc-ff2e-49c5-a979-223d06c55923" />
+
+
+ 
 
